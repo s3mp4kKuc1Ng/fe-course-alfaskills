@@ -4,6 +4,5 @@ Frontend Aplikasi Course Alfaskills
 
 # Requirements
 
-- ReactJs
 - NextJs
 - Tailwind CSS
